@@ -62,3 +62,4 @@ pip install pandas matplotlib scikit-learn seaborn tensorflow
 
 --- 
 
+![Correlation Matrix](https://github.com/jpfranca-br/datascience/blob/main/images/Matriz%20de%20Correla%C3%A7%C3%A3o%20-%20Passageiros,%20PIB%20e%20Popula%C3%A7%C3%A3o%20-%20Todos%20os%20Anos.png?raw=true)

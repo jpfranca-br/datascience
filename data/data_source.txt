@@ -1,0 +1,8 @@
+Dados passageiros Metrô Rio - 1998 a 2023
+https://www.kaggle.com/datasets/lxncylot/brazil-rio-de-janeiro-subway-1998-2023
+
+PIB a Valor Presente - Município Rio de Janeiro - 1999 a 2021
+https://cidades.ibge.gov.br/brasil/rj/rio-de-janeiro/pesquisa/38/47001?indicador=46997&ano=2021
+
+População Município Rio de Janeiro - 1970, 1980, 1990 a 2024 
+https://www.data.rio/documents/90106eb8874f4e8fbbc27678bbb1e772/about
